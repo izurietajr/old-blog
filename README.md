@@ -1,2 +1,2 @@
 # izjrblog
-# izurietajr.github.io
+blog personal (en desarrollo)
