@@ -12,7 +12,7 @@ Tags: light, white, fixed-width, one-column, custom-background, custom-header, c
 
 @import url("pygment.css");
 img {
-	width: 100%;
+	max-width: 100%;
 }
 /* =Base
 ----------------------------------------------- */
@@ -61,7 +61,8 @@ body {
 	text-decoration: none;
 }
 #site-title a:hover {
-	color: #36bcab;
+	/*color: #36bcab;*/
+	color: #9b3f3f;
 }
 #site-description {
 	background: #f1f1f1;
@@ -233,7 +234,8 @@ body {
 	color: #777;
 }
 .hentry .entry-meta .cat-links a:hover {
-	color: #36bcab;
+	/* color: #36bcab;*/
+	color: #9b3f3f;
 }
 .hentry .entry-meta .edit-link a {
 	font-size: 16px;
@@ -281,7 +283,8 @@ a {
 	text-decoration: underline;
 }
 a:hover {
-	color: #36bcab;
+	/*color: #36bcab;*/
+	color: #9b3f3f;
 }
 .entry-content a img {
 	border: 10px solid #ddd;
@@ -745,7 +748,8 @@ article.comment {
 	text-decoration: underline !important;
 }
 #flickr_badge_uber_wrapper a:hover{
-	color: #05b2c2 !important;
+	/*color: #05b2c2 !important;*/
+	color: #9b3f3f !important;
 }
 .widget_flickr #flickr_badge_wrapper {
 	background-color: transparent !important;
